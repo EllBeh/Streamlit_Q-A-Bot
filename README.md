@@ -4,5 +4,5 @@ Dieses kleine Code-Snippet demonstriert wie mit wenig Code und einfachen Mitteln
 Die Funktionsweise des Q&A-Vorgangs ist hierbei denkbar einfach. Beginnend mit der Übergabe eines Texts an das Modell, können anschließend Fragen über den Text gestellt werden. Über den Delete-Button ist es möglich den Text zu löschen und einen neuen Text für das Q&A zu übergeben.  
 
 ___
-## Schaltplan
+## Screenshot Q&A-Bot
 ![Screenshot](https://github.com/EllBeh/Streamlit_Q-A-Bot/blob/main/Images/screenshot.png)
